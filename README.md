@@ -27,7 +27,7 @@ Each project compiles to a command line application. Simply open a cmd window an
 ## Worked Example
  We will use __1__ TopicExchangePublisher and __3__ TopicExchangeSubscribers.
 
- __Top Tip__Take a look at your local RabbitMQ pages while this is running.
+__Top Tip__Take a look at your local RabbitMQ pages while this is running.
 
  The scenario:
  * Subscriber 1 listens for __sony__ and __warner__ messages
